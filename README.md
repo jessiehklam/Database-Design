@@ -49,4 +49,4 @@
 ### 
 ### Explore Companies
 ![](https://i.imgur.com/brJFqjQ.png)
-###### o	According to Long&Short tab, the waterfall chart illustrates net long or net short position. On the bottom right, the bar chart compares the difference of long and short position in total amount. 
+###### o	In this page, users can explore new investment option. Clicking on one of company card, related information about the chosen company will pop up, helping investors making new decsion for their portfolio.
