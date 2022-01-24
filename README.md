@@ -1,4 +1,5 @@
 # DATABASE DESIGN - R SHINY APP
+###### tags: `SMU`,`R`,`R Shiny`,`SQL`,`database`,`SSMS Studio`,`backend`,`frontend`,`CRUD`,`E-R diagram`, `database design`
 #### The coursework is a comprehensive platform that help investors (users) manage their assets and allowing them to have multiple portfolios with different goals.
 #### To create a multi-functional portfolio management system, we identified the key entities involved. Also, we identified the relationships between these entities to make it easier when creating the tables in the database.
 
